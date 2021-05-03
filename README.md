@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on free code.
 - 📫 How to reach me aguilarnajerakenneth@gmail.com
 
-	/azure-devops/coverage/:organization/:project/:definitionId
